@@ -1,4 +1,4 @@
-# Augmented_Reality_with_OpenCV
+# Augmented Reality with OpenCV
 Augmented Reality using OpenCV and Python
 
 ![Demo Result](https://github.com/kranok-dev/Augmented_Reality_with_OpenCV/blob/master/Results.jpg?raw=true)
