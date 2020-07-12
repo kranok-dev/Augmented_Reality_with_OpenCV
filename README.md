@@ -1,6 +1,8 @@
 # Augmented_Reality_with_OpenCV
 Augmented Reality using OpenCV and Python
 
+![alt text](https://github.com/kranok-dev/Augmented_Reality_with_OpenCV/blob/Result.jpg?raw=true)
+
 **Description**                                                               
 > This application consists on doing Augmented Reality using Python and OpenCV. It only requires images as references, OBJ files and either a live video feed or an image with the references. 
 
