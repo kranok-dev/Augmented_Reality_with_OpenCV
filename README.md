@@ -30,4 +30,4 @@ $ sudo python3 app_image.py
 > Try the demos implemented, change the models, download other 3D-Models and have fun!
 
 **Demo Video**
->
+> https://www.youtube.com/watch?v=v1q6Cz4ANOw
