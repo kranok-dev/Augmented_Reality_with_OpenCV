@@ -4,10 +4,10 @@ Augmented Reality using OpenCV and Python
 **Description**                                                               
 > This application consists on doing Augmented Reality using Python and OpenCV. It only requires images as references, OBJ files and either a live video feed or an image with the references. 
 
-This work is based on Juan Gallostra's code:
-https://github.com/juangallostra/augmented-reality
+> This work is based on Juan Gallostra's code:
+> https://github.com/juangallostra/augmented-reality
 
-The 3D-Models (OBJ Files) were obtained from https://clara.io/library. There are plenty more models of different objects.
+> The 3D-Models (OBJ Files) were obtained from https://clara.io/library. There are plenty more models of different objects.
 
 **Installation**
 > Clone this repository and the implemented code requires OpenCV to be installed in Python:
